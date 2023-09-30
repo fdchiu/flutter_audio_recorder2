@@ -1,4 +1,11 @@
 # flutter_audio_recorder2
+## Forked from: ![flutter audio recorder](https://github.com/meghead/flutter_audio_recorder2.git)
+
+## Update
+Sept 30, 2023: updated for dart3.0 support
+
+## Original Readme
+
 <p align="left">
   <a href="https://pub.dartlang.org/packages/flutter_audio_recorder2">
     <img alt="pub version" src="https://img.shields.io/pub/v/flutter_audio_recorder2.svg?style=flat-square">
